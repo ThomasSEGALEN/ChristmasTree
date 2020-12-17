@@ -6,6 +6,7 @@ height = n
 # Method 1
 stars_nb = 5
 spaces_nb = height – 1
+
 For i 0 to height – 1
 	For j 0 to 2
 		Print (spaces_nb * “3spaces“ + stars_nb * “*”)

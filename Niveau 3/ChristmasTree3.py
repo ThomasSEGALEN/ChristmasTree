@@ -32,9 +32,10 @@ for i in range(height):
     spaces_nb -= 1
 
 # Method - Garland
-for i in range(n - 1):
+stars_nb = 5
+spaces_nb = height - 1
+for i in range(height - 1):
     if i == 0 :
-        
         for j in range(1, 14):
             if j < 5 :
                 print(" |", end="")
@@ -45,7 +46,6 @@ for i in range(n - 1):
                     print("*", end="")
             else :
                 print(" |", end="")
-
     elif i == 1 :
         print("")
         for j in range(1, 14):
@@ -60,4 +60,5 @@ for i in range(n - 1):
                     print(" 0", end="")
     else :
         print("")
-        print("         " + "*****")
+        for i in range(height - 3):
+		        print(spaces_nb * "   " + stars_nb * "*")
