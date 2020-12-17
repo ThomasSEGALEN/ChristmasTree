@@ -1,0 +1,27 @@
+Start
+
+n = 4
+height = n
+
+stars_nb = 1
+spaces_nb = height – 1
+For i 0 to height
+	Print (“Gap*” + spaces_nb * “1space“ + stars_nb * “*”)
+	stars_nb += 2
+	spaces_nb -= 1
+
+stars_nb = 3
+spaces_nb = height – 1
+For i 0 to height
+	Print (“Gap*” + spaces_nb * “2spaces“ + stars_nb * “*”)
+	stars_nb += 4
+	spaces_nb -= 1
+
+stars_nb = 5
+spaces_nb = height – 1
+For i 0 to height
+	Print (spaces_nb * “3spaces“ + stars_nb * “*”)
+	stars_nb += 6
+	spaces_nb -= 1
+
+End
