@@ -38,6 +38,6 @@ Elif i == 1
 Else
 	Print (“”)
 	For i 0 to height – 3
-		Print (spaces_nb * “3spaces“ + stars_nb * “*”)
+		Print (spaces_nb * “   “ + stars_nb * “*”)
 
 End

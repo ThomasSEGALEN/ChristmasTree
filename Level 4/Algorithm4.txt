@@ -15,13 +15,14 @@ spaces_nb = height – 1
 
 For i 0 to height
 	If stars_nb == 3
-		Print (“5spaces” + spaces_nb + “1space“ + “0 “ + stars_nb * “*” + “ 0”)
+		Print (“     ” + spaces_nb + “ “ + “0 “ + stars_nb * “*” + “ 0”)
 		stars_nb += 4
 		spaces_nb -= 1
 	Else
-		Print (“4spaces” + spaces_nb * “2spaces” + stars_nb * “*”)
+		Print (“    ” + spaces_nb * “  ” + stars_nb * “*”)
 		stars_nb += 4
 		spaces_nb -= 1
+
 
 # Method – Stage 3 / Christmas balls
 stars_nb = 5
@@ -29,11 +30,11 @@ spaces_nb = height – 1
 
 For i 0 to height
 	If stars_nb == 5
-		Print (spaces_nb * “1space” + “ 0+4spaces” + stars_nb * “*” + “4spaces+0 “)
+		Print (spaces_nb * “ ” + “ 0    ” + stars_nb * “*” + “    0 “)
 		stars_nb += 6
 		spaces_nb -= 1
 	Else
-		Print (spaces_nb * “3spaces” + stars_nb * “*”)
+		Print (spaces_nb * “   ” + stars_nb * “*”)
 		stars_nb += 6
 		spaces_nb -= 1
 

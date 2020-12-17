@@ -15,10 +15,10 @@ spaces_nb = height – 1
 
 For i 0 to height – 1
 	For j 0 to 2
-		Print (spaces_nb * “3spaces“ + stars_nb * “*”)
+		Print (spaces_nb * “   “ + stars_nb * “*”)
 
 # Method 2
-For I 0 to height – 1
-	Print (“9spaces” + “*****”)
+For i 0 to height – 1
+	Print (“         ” + “*****”)
 
 End
