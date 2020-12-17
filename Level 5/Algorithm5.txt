@@ -1,0 +1,75 @@
+Start
+
+n = 4
+height = n
+stars_nb = 1
+spaces_nb = height – 1
+
+For i 0 to 7
+	If i == 0
+		Print (””)
+		Print (“4spaces”, end = “”)
+		For j 0 to 11
+			If j == 0 or j == 10
+				Print (” * ”, end = “”)
+			Elif j == 5
+				Print (”*”, end = ””)
+			Else
+				Print (“1space”, end = “”)
+	If i == 1
+		Print (“”)
+		Print (“4spaces”, end = “”)
+		For j 0 to 11
+			Print (“1space”, end = “”)
+			If j == 5
+				Print (“*”, end = “”)
+			Else
+				Print (“1space”, end = “”)
+	If i == 2
+		Print (“”)
+		For j 0 to 11
+			Print (“1space”, end = “”)
+			If j == 5
+				Print (“*”, end = “”)
+			Else
+				Print (“1space”, end = “”)
+	If i == 3
+		Print (“”)
+		Print (“5spaces”, end = “”)
+		For j 0 to 11
+			If j == 0 or j == 2 or j == 4 or j == 6 or j == 8 or j == 10
+				Print (“*”, end = “”)
+			Else
+				Print (“1space”, end = “”)
+	If i == 4
+		Print (“”)
+		For j 0 to 11
+			Print (“1 space”, end = “”)
+			If j == 5
+				Print (“*”, end = “”)
+			Else
+				Print (“1space”, end = “”)
+	If i == 5
+		Print (“”)
+		Print (“4spaces”, end = “”)
+		For j 0 to 11
+			If j == 2 or j == 8
+				Print (“ * “, end = “”)
+			Elif j == 5
+				Print (“|”, end = “”)
+			Else
+				Print (“1space”, end = “”)
+	If i == 6
+		Print (“”)
+		Print (“4spaces”, end = “”)
+		For j 0 to 11
+			If j == 0 or j == 10
+Print (“ * “, end = “”)
+			Elif j == 5
+				Print (“|”, end = “”)
+
+Else
+	Print (“1space”, end = “”)
+		Print (“”)
+
+End
