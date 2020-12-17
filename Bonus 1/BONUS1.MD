@@ -4,4 +4,4 @@ de taille différentes !
 Votre programme pourrait accepter un paramètre qui à partir de celui-ci va générer un sapin avec un nombre d’étage correspondant.  
 Exemple avec la figure suivante :
 
-![Image Bonus 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%201/Bonus1.PNG)
+![Image Bonus 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%202/Bonus2.PNG)
