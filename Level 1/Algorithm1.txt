@@ -1,3 +1,9 @@
+Variables :
+int n
+int height
+int stars_nb
+int spaces_nb
+
 Start
 
 n = 4
