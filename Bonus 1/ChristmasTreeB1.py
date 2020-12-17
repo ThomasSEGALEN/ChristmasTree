@@ -19,3 +19,7 @@ def creation(drawing, maxWidth,width, incrementation, totalHeight, numberOfBranc
     totalHeight +=height
     if numberOfBranch >0:
         creation(drawing, maxWidth, baseWidth+2,incrementation+1, totalHeight, numberOfBranch)
+    return drawing
+
+def creation(drawing, 10, 5, 2, 12, 4)
+print(creation)
