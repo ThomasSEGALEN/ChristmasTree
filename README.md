@@ -2,7 +2,7 @@
 ## 2.1 Critères de réalisation
 
 - Votre programme Python doit pouvoir etre exécuter en ligne de commande :
-    Ex : python3 mon_programme.py
+    >Ex : python3 mon_programme.py
 
     Idem avec des arguments
     Ex: python3 mon_programme.py argument_1
