@@ -30,14 +30,3 @@ for i in range(height):
     print(spaces_nb * "   " + stars_nb * "*")
     stars_nb += 6
     spaces_nb -= 1
-
-# Method1 - Trunk
-# stars_nb = 5
-# spaces_nb = height - 1
-# for i in range(n-1):
-#     for j in range(0, 2):
-#         print(spaces_nb * "   " + stars_nb * "*")
-
-# Method2 - Trunk
-for i in range(n-1):
-    print("         " + "*****")
