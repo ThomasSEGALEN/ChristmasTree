@@ -5,3 +5,5 @@ Nevertheless, one of the teachers makes the following remark :
 You must now add garlands at the bottom of the tree :
 
 ![Picture Level 3](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%203/Level3.PNG)
+
+At the first and second line of our trunk we added the garlands. By using "|" for the first line and "0" for the second one.
