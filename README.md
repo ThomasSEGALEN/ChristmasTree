@@ -9,7 +9,7 @@ To implement the skills acquired during our training by reinvesting what we lear
 
 
 ## Terms and Conditions 
-In groups of two. Deliverable collaboratively using GIT and by dropping your rendering on GitHub or GitLab for example.
+In groups of two. Deliver collaboratively using GIT and by dropping your rendering on GitHub or GitLab for example.
 The groups were generated randomly.
 | Surname | Name | Promotion | Random |
 | :-: | :----: | :-------: | :----: |
@@ -22,7 +22,6 @@ For each dedicated period, You will be evaluted on your progress and deliverable
 
 
 ## Background : Christmas Tree 
-Pour cela, l’équipe Switch IT est réquisitionnée pour développer un programme qui va dessiner à l’écran un sapin de noël.  
 Christmas is approahing and animals have broken into Campus Academy's premises to steal Christmas trees.
 Animals also celebrate Christmas with a tree and do not like it when humans cut down their trees.
 Compassionate, the students have decided to do without Christmas trees from the forest. Super smart, they will use a 3D printer to get their tree.
