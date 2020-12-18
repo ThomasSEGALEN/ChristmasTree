@@ -1,5 +1,5 @@
-# Objectif :
-Cette fois-ci, sans demande externe, les élèves ont décidé d’ajouter l’étoile de la mort. En réalité, c’est juste une étoile pour le sapin mais les élèves font preuves d’imagination et ont donné le nom d’étoile de la mort à leur étoile.  
-Rajoute donc cette étoile comme la figure ci-dessous :
+# Objective :
+This time, without any external request, the students decided to add the Death Star. In reality, it's just a star for the tree but they used their imagination and named it the Death Star.
+So ad this star as shown in the figure below : 
 
-![Image Niveau 5](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%205/Level5.PNG)
+![Picture Level 5](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%205/Level5.PNG)

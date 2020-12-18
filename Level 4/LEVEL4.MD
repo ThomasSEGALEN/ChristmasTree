@@ -1,6 +1,5 @@
-# Objectif :
-Il ne faut pas faire le travail à moitié, maintenant que vous êtes parti pour la décoration, il
-va falloir décorer le haut !  
-Ajouter des boules aux extrémités des niveaux (sauf le dernier qui lui a les guirlandes) :
+# Objective :
+Don't do the job halfway, now that you've left for decoration, you'll have to decorate the top !
+Add balls at the end of each level (except the last one who has the tinsels) :
 
-![Image Niveau 4](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%204/Level4.PNG)
+![Picture Level 4](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%204/Level4.PNG)
