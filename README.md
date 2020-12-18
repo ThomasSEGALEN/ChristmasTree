@@ -48,10 +48,10 @@ Your project must include :
 
 
 ## Objectives of the different levels of the Christmas Tree
-- [Level 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%201/README.MD#objectif-)  
-- [Level 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%202/README.MD#objectif-)  
-- [Level 3](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%203/README.MD#objectif-)  
-- [Level 4](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%204/README.MD#objectif-)  
-- [Level 5](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%205/README.MD#objectif-)  
-- [Bonus 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%201/README.MD#objectif-)
-- [Bonus 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%201/README.MD#objectif-)
+- [Level 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%201/README.md#objective-)  
+- [Level 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%202/README.MD#objective-)  
+- [Level 3](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%203/README.MD#objective-)  
+- [Level 4](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%204/README.MD#objective-)  
+- [Level 5](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%205/README.MD#objective-)  
+- [Bonus 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%201/README.MD#objective-)
+- [Bonus 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%201/README.MD#objective-)
