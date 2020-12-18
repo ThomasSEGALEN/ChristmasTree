@@ -5,9 +5,9 @@
 
 
 # Les variables pour la fonction christmasTree
-numberOfTrees = int(input("Nomber d'arbre de noel : ")) # Variable permattant de créer plusieurs sapin de noel identique
-heightOfChristmasTree = int(input("Hauteur de l'arbre de noel : ")) # Variable correspondant a la hauteur du sapin (soit le nombre de ligne qu'il aura)
-numberOfRepetition = int(input("Nombre de repetitions : ")) # Variable correspondant au nombres de répetitions de la hauteur du sapin
+numberOfTrees = int(input("Nombre d'arbre de noël : ")) # Variable permattant de créer plusieurs sapin de noel identique
+heightOfChristmasTree = int(input("Hauteur de l'arbre de noël : ")) # Variable correspondant a la hauteur du sapin (soit le nombre de ligne qu'il aura)
+numberOfRepetition = int(input("Nombre de répetitions : ")) # Variable correspondant au nombres de répetitions de la hauteur du sapin
 actuel = 0 # permettre d'indenter la boucle et le pour
 numberOfStars = 0 # Le nombre d'etoile a imprimer
 total = heightOfChristmasTree * numberOfRepetition #Variable correspondant
