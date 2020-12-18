@@ -1,56 +1,58 @@
 # ChristmasTree
 
-## Objectif de l’expérience professionnelle pour l’apprenant
-Mettre en œuvre les capacités acquises en cours de formation en réinvestissant ce qui a été appris en situation professionnelle en lien avec un besoin simple : concevoir le sapin de noël de Campus Academy.  
+## Purpose of the work experience for the learner
+To implement the skills acquired during our training by reinvesting what we learned in a professional situation in relation to a simple need: to design the Campus Academy Christmas tree.
 
 
-## Calendrier Campus Contest
-17 et 18 décembre 2020.  
+## Campus Contest Calendar
+17 and 18 December 2020.  
 
 
-## Modalités
-Par groupe de deux. Livrable en collaboration en utilisant GIT et en déposant votre rendu sur GitHub ou GitLab par exemple.  
-Les groupes ont été générés aléatoirement.  
-| Nom | Prénom | Promotion | Random |
+## Terms and Conditions 
+In groups of two. Deliverable collaboratively using GIT and by dropping your rendering on GitHub or GitLab for example.
+The groups were generated randomly.
+| Surname | Name | Promotion | Random |
 | :-: | :----: | :-------: | :----: |
 | CIVILE | Nicola | ANG Switch IT - Bachelor 1 | 0,036 |
 | SÉGALEN | Thomas | ANG Switch IT - Bachelor 1 | 0,107 |
 
 
-## Évaluations
-Pour chaque période dédiée, vous serez évalués sur vos avancements et vos livrables. Vous trouverez la fiche d’évaluation finale à la fin de ce document.  
+## Evaluations
+For each dedicated period, You will be evaluted on your progress and deliverables. You will find the final evaluation form at the end of this document.
 
 
-## Contexte : Christmas Tree
-Noël approche et des animaux se sont introduits dans tous les locaux de Campus Academy pour dérober les sapins de noël.  
-Les animaux eux aussi fêtent noël autour d’un arbre et non pas aimés que les êtres humains découpent leurs arbres.  
-Compatissant, les élèves ont décidé de faire sans sapin de noël provenant de la forêt. Super intelligent, Ils vont utiliser une imprimante 3D pour obtenir leur sapin.  
+## Background : Christmas Tree 
 Pour cela, l’équipe Switch IT est réquisitionnée pour développer un programme qui va dessiner à l’écran un sapin de noël.  
+Christmas is approahing and animals have broken into Campus Academy's premises to steal Christmas trees.
+Animals also celebrate Christmas with a tree and do not like it when humans cut down their trees.
+Compassionate, the students have decided to do without Christmas trees from the forest. Super smart, they will use a 3D printer to get their tree.
+For this, the Switch IT team is requisitioned to develop a program that will draw on the screen a Christmas tree.
 
 
-## Critères de réalisation
-- Votre programme Python doit pouvoir être exécuter en ligne de commande :  
-Ex : python3 mon_programme.py  
-Idem avec des arguments  
-Ex : python3 mon_programme.py argument_1  
-- Interdiction d’ajouter des sapins en « dur » dans votre code  
-- L’utilisation du style de code PEP8 et de flake8 est fortement recommandé  
-- Une forte appréciation sera ajoutée pour un code en anglais (pas de nom de variable avec des accents etc…)  
-- Pour chaque programme Python3, un rendu d’un algorithme est attendu. Utilisez le pseudo-code appris et/ou tout autre forme permettant au correcteur de comprendre votre démarche.  
-
-## Rendus attendus : Team Workflow
-Avec votre binôme, vous devez travailler en collaboration. Pour cela, GIT est obligatoire.  
-Veillez également à déposer votre code sur GitHub  
-Votre projet doit comporter :  
-- Des commits réguliers  
-- Un fichier README.md propre et formaté markdown (français ou anglais)  
+## Achievement Criteria
+- Your Python program must be executable with command lines:
+Ex : python3 my_program.py
+Same with arguments
+Ex : python3 my_program.py argument_1
+- Prohibition to add "hard" trees in your code
+- The use of PEP8 and flake8 code style is strongly recommended.
+- A strong appreciation will be added for a code in English(no variable name with accents etc...)
+- For each Python3 program, a rendering of an algorithm is expected. Use the pseudo-code learned and/or any other form that allows the corrector to understand your approach.
 
 
-## Objectifs des différents Niveau du Christmas Tree
-- [Niveau 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%201/LEVEL1.MD#objectif-)  
-- [Niveau 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%202/LEVEL2.MD#objectif-)  
-- [Niveau 3](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%203/LEVEL3.MD#objectif-)  
-- [Niveau 4](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%204/LEVEL4.MD#objectif-)  
-- [Niveau 5](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%205/LEVEL5.MD#objectif-)  
+## Expected deliverables : Team Workflow
+With your partner, you must work in collaboration. For this, GIT is mandatory.
+Please also make sure to deposit your code on GitHub.
+Your project must include :
+- Regular commits
+- A clean and formatted README.md markdown file (French or English)
+
+
+## Objectives of the different levels of the Christmas Tree
+- [Level 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%201/LEVEL1.MD#objectif-)  
+- [Level 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%202/LEVEL2.MD#objectif-)  
+- [Level 3](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%203/LEVEL3.MD#objectif-)  
+- [Level 4](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%204/LEVEL4.MD#objectif-)  
+- [Level 5](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%205/LEVEL5.MD#objectif-)  
 - [Bonus 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%201/BONUS1.MD#objectif-)
 - [Bonus 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%201/BONUS1.MD#objectif-)
