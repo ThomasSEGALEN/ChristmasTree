@@ -1,0 +1,5 @@
+vm
+Admin Password: azerty-85
+
+pfsense
+Admin Password: CVLSGL123
