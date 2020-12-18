@@ -1,6 +1,6 @@
-# Objectif :
-Pour faire des économies, vous décidez d’imprimer plusieurs sapins d’un coup. Pour cela, votre programme doit pouvoir dessiner plusieurs sapins sur une même ligne !  
-Modifiez votre programme en conséquence.  
-Exemple avec la figure suivante :
+# Objective :
+To save money, you decide to print several trees at once. To do this, your program must be able to draw several trees on the same line !
+Modify your program accordingly.
+Example with the following figure :
 
-![Image Bonus 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%202/Bonus2.PNG)
+![Picture Bonus 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%202/Bonus2.PNG)

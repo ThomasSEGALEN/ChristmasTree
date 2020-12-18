@@ -1,7 +1,6 @@
-# Objectif :
-Les enseignants vous trouvant super motivés décident de vous attribuer un bonus si vous parvenez à modifier votre algorithme et donc votre programme pour concevoir des sapins
-de taille différentes !  
-Votre programme pourrait accepter un paramètre qui à partir de celui-ci va générer un sapin avec un nombre d’étage correspondant.  
-Exemple avec la figure suivante :
+# Objective :
+Teachers who find your super motivated decide to give you a bonus if you manage to modify your algorithm and therefore your program to design different sized trees !
+Your program could accept a parameter that from it wil generate a tree with corresponding number of storeys. 
+Example with the following figure :
 
-![Image Bonus 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%202/Bonus2.PNG)
+![Picture Bonus 1](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Bonus%202/Bonus2.PNG)
