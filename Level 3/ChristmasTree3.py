@@ -36,7 +36,7 @@ stars_nb = 5
 spaces_nb = height - 1
 for i in range(height - 1):
     if i == 0 :
-        for j in range(1, 14):
+        for j in range(1, 14):      #  Printing when j is equal to...
             if j < 5 :
                 print(" |", end="")
             elif j >= 5 and j <= 9 :
@@ -48,7 +48,7 @@ for i in range(height - 1):
                 print(" |", end="")
     elif i == 1 :
         print("")
-        for j in range(1, 14):
+        for j in range(1, 14):      #  Printing when j is equal to...
                 if j < 5 :
                     print(" 0", end="")
                 elif j >= 5 and j <= 9 :
@@ -58,7 +58,7 @@ for i in range(height - 1):
                         print("*", end="")
                 else :
                     print(" 0", end="")
-    else :
+    else :      #  Printing the trunk
         print("")
         for i in range(height - 3):
 		        print(spaces_nb * "   " + stars_nb * "*")
