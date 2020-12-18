@@ -1,6 +1,7 @@
-# Objectif :
-Super content, vous parvenez à délivrer les plans des sapins pour l’impression 3D. Et en plus, les sapins tiennent debout !  
-Néanmoins, un des enseignant fait la remarque suivante : « Il serait plus jolie avec des guirlandes ! »  
-Vous devez à présent ajouter des guirlandes en bas du sapin :
+# Objective :
+Super happy, you manage to deliver the plans of the trees for 3D printing. And what's more, the trees are standing upright!
+Nevertheless, one of the teachers makes the following remark :
+"It would be prettier with garlands !"
+You must now add garlands at the bottom of the tree :
 
-![Image Niveau 3](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%203/Level3.PNG)
+![Picture Level 3](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%203/Level3.PNG)

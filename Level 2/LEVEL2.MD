@@ -1,5 +1,5 @@
-# Objectif :
-Après l’avoir imprimé en 3D, les élèves se sont aperçus qu’il manquait un tronc pour le faire tenir !  
-Rajoutez au programme la partie pour dessiner un tronc comme la figure ci-dessous.
+# Objective :
+After printing it in 3D, the students realized that a trunk was missing to make it fit!
+Add to the program the part to draw a trunk as shown below.
 
-![Image Niveau 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%202/Level2.PNG)
+![Picture Level 2](https://github.com/ThomasSEGALEN/ChristmasTree/blob/main/Level%202/Level2.PNG)
