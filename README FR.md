@@ -1,7 +1,8 @@
 # ChristmasTree
 
 ## Objectif de l’expérience professionnelle pour l’apprenant
-Mettre en œuvre les capacités acquises en cours de formation en réinvestissant ce qui a été appris en situation professionnelle en lien avec un besoin simple : concevoir le sapin de noël de Campus Academy.  
+Mettre en œuvre les capacités acquises en cours de formation en réinvestissant ce qui a été appris en situation professionnelle en lien avec un besoin simple : concevoir le sapin de noël de Campus Academy. 
+To implement the skills acquired during our training by reinvesting what we learned in a professional situation in relation to a simple need: to design the Campus Academy Christmas tree.
 
 
 ## Calendrier Campus Contest

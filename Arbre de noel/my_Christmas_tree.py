@@ -13,7 +13,7 @@ numberOfStars = 0 # Le nombre d'etoile a imprimer
 total = heightOfChristmasTree * numberOfRepetition #Variable correspondant
 nbSpaces = total # Assignation de la variable nbspaces en dehors de la fonction
 christmasBalls = 0
-array = []
+
 # Fonction qui créer un arbre de noel de la taille qu'on veut
 def christmasTree(numberOfStars, heightOfChristmasTree, actuel, total):
     nbSpaces = heightOfChristmasTree + total
@@ -38,11 +38,11 @@ def multipleChristmasTree(numberOfStars, heightOfChristmasTree, actuel, total, n
         print(((nbSpaces * " ") + (numberOfStars * "*") + (nbSpaces * " ")) * numberOfTrees)
 
 
-def christmasDecorations(christmasBalls, christmasTinsel)
-    nbspaces = heightOfChristmasTree + total
-    for i in range (0, heightOfChristmasTree, +1)
-        if i == 1 and i == 2:
-            christmasBalls = 
+# def christmasDecorations(christmasBalls, christmasTinsel)
+#     nbspaces = heightOfChristmasTree + total
+#     for i in range (0, heightOfChristmasTree, +1)
+#         if i == 1 and i == 2:
+#             christmasBalls
 
 
 
